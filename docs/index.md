@@ -1,9 +1,6 @@
-# Plantilla de talleres
+# Curso de backend 2021
 
 ![Aula Software Libre de la UCO](images/logo-cuadrado-invertido.svg)
-
-Esta plantilla se puede usar para documentar los talleres y actividades del [Aula de Software Libre de la
-Universidad de Córdoba](https://www.uco.es/aulasoftwarelibre).
 
 ## Licencia
 
